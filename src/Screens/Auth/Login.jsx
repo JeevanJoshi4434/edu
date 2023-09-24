@@ -6,7 +6,7 @@ const Login = () => {
   return (
     <>
     <div class="p-6 bg-slate-200 h-screen flex justify-center items-center">
-      <div class="p-5 flex flex-col h-3/4 w-1/3 bg-white rounded-md shadow-2xl">
+      <div class="p-5 flex flex-col h-2/3 w-1/3 bg-white rounded-xl shadow-2xl">
         <h1 className='text-xl'>Login </h1>
            <form class=" flex flex-col mt-3" >
             <h1 class="mb-3">user name :</h1>

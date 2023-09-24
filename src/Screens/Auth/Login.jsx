@@ -3,7 +3,11 @@ import React from 'react'
 const Login = () => {
   return (
     <div>
-      <h1>Heyyy</h1>
+      <div class="flex justify-center ">
+        <div class="bg-slate-500">
+
+        </div>
+      </div>
     </div>
   )
 }

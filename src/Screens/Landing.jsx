@@ -2,9 +2,10 @@ import React from 'react'
 
 const Landing = () => {
   return (
-    <div className=' flex flex-col justify-center items-center'>
-      <h1 className=''>Landing Page</h1>
-    </div>
+  //  nav bar
+   <div className=' bg-gray-400 h-10'>
+
+   </div>
   )
 }
 

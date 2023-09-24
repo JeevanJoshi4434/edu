@@ -42,9 +42,7 @@ const HorizontalConfig = {
 
 /* The `VerticalConfig` constant is an object that contains configuration settings for a vertical
 navigation menu. */
-const VerticalConfig = {
-    title:"Under-Docs",
-    items:[
+export const VerticalConfig = [
         {
             title:"Home",
             icon:Icon.Home,
@@ -81,6 +79,4 @@ const VerticalConfig = {
             link:"/logout",
             id:"logout"
         }
-    ]
-}
-
+]

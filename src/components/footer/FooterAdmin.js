@@ -70,7 +70,7 @@ export default function Footer() {
           <Link
             fontWeight='500'
             color={textColor}
-            href='https://www.simmmple.com/licenses?ref=horizon-chakra-free'>
+            href='https://www.simmmple.com/licenses?ref=horizon-chakra'>
             License
           </Link>
         </ListItem>

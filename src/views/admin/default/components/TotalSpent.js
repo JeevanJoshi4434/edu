@@ -82,11 +82,11 @@ export default function TotalSpent(props) {
         <Flex flexDirection='column' me='20px' mt='28px'>
           <Text
             color={textColor}
-            fontSize='34px'
+            fontSize='30px'
             textAlign='start'
             fontWeight='700'
             lineHeight='100%'>
-            $37.5K
+            students enrollment
           </Text>
           <Flex align='center' mb='20px'>
             <Text
@@ -95,20 +95,20 @@ export default function TotalSpent(props) {
               fontWeight='500'
               mt='4px'
               me='12px'>
-              Total Spent
+             
             </Text>
             <Flex align='center'>
-              <Icon as={RiArrowUpSFill} color='green.500' me='2px' mt='2px' />
+              
               <Text color='green.500' fontSize='sm' fontWeight='700'>
-                +2.45%
+               
               </Text>
             </Flex>
           </Flex>
 
           <Flex align='center'>
-            <Icon as={IoCheckmarkCircle} color='green.500' me='4px' />
+           
             <Text color='green.500' fontSize='md' fontWeight='700'>
-              On track
+             
             </Text>
           </Flex>
         </Flex>
